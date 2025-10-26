@@ -8,7 +8,7 @@
 It introduces a cohesive ecosystem of modules — `gpclassifier`, `gpregressor`, and `spfp` — that together support the evolution of compact, human-readable models for both classification and regression tasks.  
 The framework integrates multi-population evolution, semantic partitioning, and ensemble-based symbolic learning to produce transparent, high-performance models.
 
-### Key Features
+## Key Features
 
 - **Multi-Population Genetic Programming**  
   Parallel populations evolve diverse solutions that collectively reduce variance and prevent premature convergence.
