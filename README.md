@@ -69,7 +69,7 @@ The manual includes:
 - Example scripts for `gpclassifier`, `gpregressor`, and `SPFPPartitioner`
 - Guidance for extending and visualizing GenForge runs
 
-### Reproducible Examples and Capsule
+## Reproducible Examples and Capsule
 The examples/ directory contains fully reproducible solved examples demonstrating each of the three core modules of GenForge:
 
 - **SPFP** – Semantic-Preserving Feature Partitioning preprocessor for balanced multi-view decomposition.
@@ -96,14 +96,14 @@ These examples reproduce the behavior of the software as presented in the GenFor
 
 All examples are self-contained; running any script regenerates the corresponding figures and reports found under each folder’s "Produced Results" subdirectory, enabling direct comparison for validation.
 
-### Citation
+## Citation
 If you use GenForge in your research, please cite the corresponding papers listed below:
 - Khorshidi, M. S., *et al.* (2025). Semantic-Preserving Feature Partitioning for multi-view ensemble learning. *Information Fusion*, 122, 103152. [DOI](https://doi.org/10.1016/j.inffus.2025.103152)  
 - Khorshidi, M. S., *et al.* (2025). Multi-population Ensemble Genetic Programming via Cooperative Coevolution and Multi-view Learning for Classification. *arXiv:2509.19339.* [DOI](https://doi.org/10.48550/arXiv.2509.19339)  
 - Khorshidi, M. S., *et al.* (2025). From embeddings to equations: Genetic-programming surrogates for interpretable transformer classification. *arXiv:2509.21341.* [DOI](https://doi.org/10.48550/arXiv.2509.21341)  
 - Khorshidi, M. S., *et al.* (2025). Domain-Informed Genetic Superposition Programming: A Case Study on SFRC Beams. *arXiv:2509.21355.* [DOI](https://doi.org/10.48550/arXiv.2509.21355)
 
-### Installation
+## Installation
 
 To install GenForge from source:
 
