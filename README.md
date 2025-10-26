@@ -84,6 +84,7 @@ To install GenForge from source:
 git clone https://github.com/maisamkhorshidi/genforge.git
 cd genforge
 pip install .
+---
 
 ### Reproducible Examples and Capsule
 The examples/ directory contains fully reproducible solved examples demonstrating each of the three core modules of GenForge:
