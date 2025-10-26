@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: GenForge: Sculpting Solutions with Multi-Population Genetic Programming
+title: "GenForge: Sculpting Solutions with Multi-Population Genetic Programming"
 message: "If you use this software, please cite it as below."
 type: software
 license: GPL-3.0-only
@@ -26,11 +26,11 @@ references:
       - family-names: Khorshidi
         given-names: Mohammad Sadegh
       - family-names: Yazdanjue
-        given-names: N.
+        given-names: Navid
       - family-names: Gharoun
-        given-names: H.
+        given-names: Hassan
       - family-names: Yazdani
-        given-names: D.
+        given-names: Danial
       - family-names: Nikoo
         given-names: Mohammad Reza
       - family-names: Chen
@@ -50,9 +50,9 @@ references:
       - family-names: Khorshidi
         given-names: Mohammad Sadegh
       - family-names: Yazdanjue
-        given-names: N.
+        given-names: Navid
       - family-names: Gharoun
-        given-names: H.
+        given-names: Hassan
       - family-names: Nikoo
         given-names: Mohammad Reza
       - family-names: Chen
@@ -63,7 +63,7 @@ references:
     year: 2025
     doi: "10.48550/arXiv.2509.19339"
     url: "https://doi.org/10.48550/arXiv.2509.19339"
-	
+
   - type: article
     title: "From embeddings to equations: Genetic-programming surrogates for interpretable transformer classification"
     authors:
@@ -103,4 +103,3 @@ references:
     year: 2025
     doi: "10.48550/arXiv.2509.21355"
     url: "https://doi.org/10.48550/arXiv.2509.21355"
-
